@@ -1,5 +1,5 @@
 
-![Logo 32x32](favicon/android-chrome-48x48.png "BLKBX PDX") 
+![Logo 32x32](favicon/favicon-32x32.png "BLKBX PDX") 
 
 ----------------------------------
 # **SoundCloud Player Widget**
@@ -17,6 +17,6 @@ MIT License, see [LICENSE](https://github.com/brianforee/soundcloud-player-widge
 ~ B\4e | 3-Thirty-Thr33 | D3ATH ANG3L3S
 ```
 <br>
-![Logo 72x72](favicon/android-chrome-72x72.png "BLKBX PDX")
+![Logo 72x72](favicon/B-L-K-B-X-512x512_2.png "BLKBX PDX")
 <br>
  **B L K B X** 
